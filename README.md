@@ -1,3 +1,3 @@
 # AI300_Projects
 
-Author: Min Yan
+Author Name: Min Yan
